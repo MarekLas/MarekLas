@@ -4,7 +4,7 @@
 
 <br />
 
-### Languages and tools
+### Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -21,7 +21,7 @@
 
 <br />
 
-### Details
+### Details:
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical" />
 
