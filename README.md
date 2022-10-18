@@ -1,4 +1,4 @@
-# Hi there, I'm Marek Laskowski 👋
+# Hi there, I'm Marek 👋
 
 <img align="center" width ="96%" src="https://github.com/MarekLas/MarekLas/blob/main/DATA_SCIENTIST.gif" />
 
