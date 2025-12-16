@@ -28,7 +28,7 @@
 
 <!--img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact" />
+  <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact" />
 </a>
 <!--
 **MarekLas/MarekLas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
