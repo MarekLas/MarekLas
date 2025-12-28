@@ -24,7 +24,11 @@
 
 ### Details:
 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical" />
+<!--img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical" /-->
+
+<a href="https://github.com/mareklas/github-readme-stats">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical" />
+</a>
 
 <!--img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /-->
 <a href="https://github.com/mareklas/github-readme-stats">
