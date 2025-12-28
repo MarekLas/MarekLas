@@ -67,13 +67,8 @@
 | ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MarekLas&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarekLas&layout=compact&langs_count=8&hide_border=true) |
 
 🔭 I’m currently working on Tricity Tableau dashbord:
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://public.tableau.com/app/profile/mareklaskowski/viz/Tricity/Stronatytuowa?publish=yes)">
-  <img
-    align="left"
-    width="42%"
-    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800](https://github.com/user-attachments/assets/65b5e73c-6e38-4460-ad0d-f64dff4bfb1f)"
-  />
-</a>
+https://public.tableau.com/app/profile/mareklaskowski/viz/Tricity/Stronatytuowa?publish=yes
+
 <!--
 **MarekLas/MarekLas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
