@@ -60,8 +60,8 @@
 ## Details:
 
 | GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical&hide_border=true&count_private=false&cache_seconds=1800&format=png) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800&format=png) |
+|---|---|
+| ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MarekLas&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarekLas&layout=compact&langs_count=8&hide_border=true) |
 
 
 <!--
