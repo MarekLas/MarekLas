@@ -39,7 +39,7 @@
   <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact" />
 </a-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="left"
     width="47%"
@@ -55,7 +55,12 @@
   />
 </a>
 
-<br /><br /><br />
+<br /><br /><br /-->
+
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekLas&show_icons=true&theme=radical&hide_border=true&count_private=false&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarekLas&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800) |
+
 
 <!--
 **MarekLas/MarekLas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
