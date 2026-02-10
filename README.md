@@ -72,7 +72,7 @@
 
 
 ### Tableau:
-🔭 I’m currently working on Tricity Tableau dashbord:
+🔭 I’m currently working on Tricity Tableau dashboard:
 https://public.tableau.com/app/profile/mareklaskowski/viz/Tricity/Stronatytuowa?publish=yes
 
 <!--
